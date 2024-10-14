@@ -1,6 +1,6 @@
 <h1>FT_TRANSCENDENCE</h1>
-
-<h6>Done in collaboration with the amazing goffauxs, adidion19, 2BDia and Viforget</h6>
+<h6>Written by mdeclerf</h6>
+<h6>Done in collaboration with the amazing goffauxs, adidion19, Julie-VA and Viforget</h6>
 
 <h4>Summary</h4>
 Ft_transcendence is a website where users can play real-time multiplayer Pong. They connect with the OAuth system of 42 intranet and have access to a chat, a leaderboard, a profile page etc...
